@@ -20,7 +20,7 @@ This is a class project for a mobile development university course.
 
 ## Status
 
-Project is: _not finished_.
+Project is: _finished_.
 
 ## Contact
 
